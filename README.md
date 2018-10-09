@@ -1,3 +1,2 @@
 # simpleMVC
-My effort #2
-
+It is my stydying
